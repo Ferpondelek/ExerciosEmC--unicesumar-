@@ -1,4 +1,4 @@
-//Elabore um programa que receba quatro notas e calcule a média aritmética entre elas.
+//Elabore um programa que receba quatro notas e calcule a mÃ©dia aritmÃ©tica entre elas.
 #include <stdio.h>
 #include <stdlib.h>
 
