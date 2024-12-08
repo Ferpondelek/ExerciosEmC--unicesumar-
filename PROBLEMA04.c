@@ -1,4 +1,4 @@
-//Escreva um programa que receba dois números, calcule e apresente o resultado do primeiro número elevado ao segundo.
+//Escreva um programa que receba dois nÃºmeros, calcule e apresente o resultado do primeiro nÃºmero elevado ao segundo.
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
