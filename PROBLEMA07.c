@@ -1,7 +1,7 @@
-/*Elabore um programa que receba o nome e a idade de uma pessoa e informe o nome, a idade e o valor da mensalidade do plano de saúde.
+/*Elabore um programa que receba o nome e a idade de uma pessoa e informe o nome, a idade e o valor da mensalidade do plano de saÃºde.
 A tabela a seguir apresenta os valores de mensalidade:
 
-Até 18 anos	R$ 50,00
+AtÃ© 18 anos	R$ 50,00
 De 19 a 29 anos	R$ 70,00
 De 30 a 45 anos	R$ 90,00
 De 46 a 65 anos	R$ 130,00
