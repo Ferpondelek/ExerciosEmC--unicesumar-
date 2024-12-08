@@ -1,5 +1,5 @@
-/*Faça um programa que receba o valor de um depósito e o valor da taxa de juros,
- calcule e apresente o valor do rendimento e o valor total (valor do depósito + valor do rendimento). */
+/*FaÃ§a um programa que receba o valor de um depÃ³sito e o valor da taxa de juros,
+ calcule e apresente o valor do rendimento e o valor total (valor do depÃ³sito + valor do rendimento). */
 #include <stdio.h>
 #include <stdlib.h>
 
