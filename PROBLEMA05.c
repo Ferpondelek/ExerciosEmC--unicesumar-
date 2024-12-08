@@ -1,4 +1,4 @@
-//Elabore um programa que calcule a área de um trapézio.
+//Elabore um programa que calcule a Ã¡rea de um trapÃ©zio.
 #include <stdio.h>
 #include <stdlib.h>
 
