@@ -1,4 +1,4 @@
-/**De acordo com uma tabela mÈdica, o peso ideal est· relacionado com a altura e o sexo.
+/**De acordo com uma tabela m√©dica, o peso ideal est√° relacionado com a altura e o sexo.
  Elabore um algoritmo que receba altura e sexo de uma pessoa e calcule e imprima o seu peso ideal, sabendo que:
 
 Para homens	(72.7 x altura ) - 58
