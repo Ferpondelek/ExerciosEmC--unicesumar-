@@ -1,5 +1,5 @@
 /*Construa um programa que receba a idade de uma pessoa e identifique sua classe eleitoral:
- n„o eleitor (menor que 16 anos de idade), eleitor obrigatÛrio (entre 18 e 65 anos) e eleitor facultativo (entre 16 e 18 anos e maior que 65 anos).*/
+ n√£o eleitor (menor que 16 anos de idade), eleitor obrigat√≥rio (entre 18 e 65 anos) e eleitor facultativo (entre 16 e 18 anos e maior que 65 anos).*/
 #include <stdio.h>
 #include <stdlib.h>
 
