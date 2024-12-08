@@ -1,4 +1,4 @@
-//Faça um programa que leia um número e informe se ele é divisível por cinco.
+//FaÃ§a um programa que leia um nÃºmero e informe se ele Ã© divisÃ­vel por cinco.
 #include <stdio.h>
 #include <stdlib.h>
 
