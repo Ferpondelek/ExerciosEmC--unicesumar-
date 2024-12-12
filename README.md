@@ -44,3 +44,23 @@ PROBLEMA16: lê um salario enquanto diferente de -1, lê o número de filhos, e 
 PROBLEMA17: lê idade e altura de várias pessoas, mostra media das idades e média das alturas, é encerrado quando idade recebe 0.
 
 PROBLEMA18: lê a opiniao do cliente sobre um produto, apresenta número de clientes que escolheram a opiniao e mostra media das idades dos clientes que escolheram tal opiniao.
+
+
+Os problmeas do 19 ao 26, usam structs, vetores e matrizes, usam algoritmo de ordenação, pesquisa em vetores.
+
+PROBLEMA19: cria um cadastro para 2 livros, usando struct. O programa permite escolher a opção de cadastrar livros, imprimir informações, pesquisar livros por código, e ordenar livros por ano.
+
+PROBLEMA20: lê um vetor de 10 elementos e exibe em ordem contrária a leitura.
+
+PROBLEMA21: lê dois vetores, efetua a soma entre os dois e exibe resultado em ordem crescente.
+
+PROBLEMA22: lê um nome e apresenta letras que estão nas posições pares.
+
+PROBLEMA23: lê uma palavra e a exibe de trás para frente.
+
+PROBLEMA24: lê uma palavra e a exibe quantas vezes forem o número de caracteres.
+
+PROBLEMA25: efetua a leitura de 4 notas de 3 alunos, usando matrizes, calcula média de cada aluno e média da turma.
+
+PROBLEMA26: recebe informações de funcionários que são armazenados em uma struct, o usuário pode realizar pesquisar usando a matricula.
+
