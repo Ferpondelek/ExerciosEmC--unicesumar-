@@ -1,4 +1,4 @@
-/*Escreva um programa que leia um vetor com 10 elementos inteiros e escreva-os em ordem contr·ria ‡ da leitura.*/
+/*Escreva um programa que leia um vetor com 10 elementos inteiros e escreva-os em ordem contr√°ria √† da leitura.*/
 #include <stdio.h>
 #include <stdlib.h>
 
