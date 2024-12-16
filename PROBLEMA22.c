@@ -1,4 +1,4 @@
-//Faça um programa que leia um nome e apresente as letras que se encontram nas posições pares.
+//FaÃ§a um programa que leia um nome e apresente as letras que se encontram nas posiÃ§Ãµes pares.
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
