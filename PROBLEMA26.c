@@ -1,6 +1,6 @@
-/*Construa um programa que leia informações (matrícula, nome, setor e salário) de 2 funcionários.
-Deve ser permitido executar quantas consultas o operador desejar, em que ele digita a matrícula e são apresentados o setor e o salário.
-Se a matrícula digitada não existir, informar o usuário.*/
+/*Construa um programa que leia informaÃ§Ãµes (matrÃ­cula, nome, setor e salÃ¡rio) de 2 funcionÃ¡rios.
+Deve ser permitido executar quantas consultas o operador desejar, em que ele digita a matrÃ­cula e sÃ£o apresentados o setor e o salÃ¡rio.
+Se a matrÃ­cula digitada nÃ£o existir, informar o usuÃ¡rio.*/
 #include <stdio.h>
 #include <stdlib.h>
 struct funcionario
