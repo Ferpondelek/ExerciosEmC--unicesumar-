@@ -46,7 +46,7 @@ PROBLEMA17: lê idade e altura de várias pessoas, mostra media das idades e mé
 PROBLEMA18: lê a opiniao do cliente sobre um produto, apresenta número de clientes que escolheram a opiniao e mostra media das idades dos clientes que escolheram tal opiniao.
 
 
-Os problmeas do 19 ao 26, usam structs, vetores e matrizes, usam algoritmo de ordenação, pesquisa em vetores.
+Os problemas do 19 ao 26, usam structs, vetores e matrizes, usam algoritmo de ordenação, pesquisa em vetores.
 
 PROBLEMA19: cria um cadastro para 2 livros, usando struct. O programa permite escolher a opção de cadastrar livros, imprimir informações, pesquisar livros por código, e ordenar livros por ano.
 
