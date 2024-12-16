@@ -1,4 +1,4 @@
-/*Faça um programa que leia dois vetores A e B, com 5 números inteiros.
+/*FaÃ§a um programa que leia dois vetores A e B, com 5 nÃºmeros inteiros.
 Efetue a soma dos dois vetores em um vetor C e imprima o vetor C em ordem crescente.*/
 #include <stdio.h>
 #include <stdlib.h>
