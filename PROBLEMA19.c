@@ -1,11 +1,11 @@
-/*O problema consiste em elaborar um cadastro para 20 livros, contendo as seguintes informações: código, título, autor, área, ano e editora.
- Desenvolver um menu com as seguintes opções:
+/*O problema consiste em elaborar um cadastro para 20 livros, contendo as seguintes informaÃ§Ãµes: cÃ³digo, tÃ­tulo, autor, Ã¡rea, ano e editora.
+ Desenvolver um menu com as seguintes opÃ§Ãµes:
 
 1. Cadastrar os livros.
 
-2. Imprimir as informações dos livros.
+2. Imprimir as informaÃ§Ãµes dos livros.
 
-3. Pesquisar livros por código.
+3. Pesquisar livros por cÃ³digo.
 
 4. Ordenar os livros por ano.
 
@@ -74,7 +74,7 @@ int main() {
                 break;
 
             case 3:
-                // Pesquisar livros por código
+                // Pesquisar livros por cÃ³digo
                 printf("INFORME O CODIGO DO LIVRO:\n");
                 scanf("%d", &pesquisa);
                 getchar();  // Limpeza do buffer
