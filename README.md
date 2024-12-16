@@ -64,3 +64,14 @@ PROBLEMA25: efetua a leitura de 4 notas de 3 alunos, usando matrizes, calcula m�
 
 PROBLEMA26: recebe informações de funcionários que são armazenados em uma struct, o usuário pode realizar pesquisar usando a matricula.
 
+Os problemas do 27 ao 30, usam funções, e manipulação de string.
+
+PROBLEMA27: o programa tem uma função que recebe uma temperatura em graus Celcius e retorna em Fahrenheint.
+
+PROBLEMA28: tem uma função que recebe um peso em quilogramas e devolve em libras.
+
+PROBLEMA29: o programa tem uma função que recebe um veotr com 10 números inteiros e retorna em ordem crescente.
+
+PROBLEMA30: o programa tem uma função que recebe uma string e retorna a quantidade de consoantes.
+
+
